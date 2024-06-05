@@ -1,0 +1,21 @@
+Important Notes for Competitive Programming
+
+Thing to learn
+
+	- CP (https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h)
+
+Practice
+
+	- C2 ladders - current_level+200 to current_level+400 (https://c2-ladders-juol.onrender.com/)
+
+	- CSES Problem Set [link](https://cses.fi/problemset/)
+	- CP Algorithms [link](https://cp-algorithms.com)
+	- Codeforces
+  		- Problem Set Tab => Apply filters by rating or tag.
+  		- EDU Tab => courses
+
+	- A2oJ (levelwise practice) [link](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+
+After Contest
+	give honest try 30-40 min else,
+		- Go through (discussion or editorial) hints and try to solve. If unable to solve then see solution.
