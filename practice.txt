@@ -7,6 +7,7 @@ Thing to learn
 Practice
 
 	- C2 ladders - current_level+200 to current_level+400 (https://c2-ladders-juol.onrender.com/)
+	- Leetcode Question - https://zerotrac.github.io/leetcode_problem_rating/#/
 
 	- CSES Problem Set [link](https://cses.fi/problemset/)
 	- CP Algorithms [link](https://cp-algorithms.com)
